@@ -26,7 +26,7 @@ const CounterMUI = () => {
       <Card classname="card" variant="outlined" sx={{ height: "300px" }}>
         <Box>
           <Typography className="count-content">
-            Count:
+            Counter:
             <div style={{ color: count % 2 === 0 ? "green" : "red" }}>
               {count}
             </div>
