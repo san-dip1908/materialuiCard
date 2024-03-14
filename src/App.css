@@ -1,0 +1,40 @@
+.red {
+    color:red;
+  }
+  .green {
+    color:green;
+  }
+  
+  .count-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 40px;
+  
+  }
+  
+  .btn-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 80px;
+    margin: 150px;
+  }
+  
+  .card {
+    margin-top: 180px;
+  }
+   
+  .btn1{
+    margin-right: 10px;
+  }
+  .btn3{
+    margin-left: 10px;
+  }
+  
+  .even-content{
+    margin-left: 263px;
+  }
+  .odd-content{
+    margin-left: 263px;
+  }
